@@ -40,7 +40,7 @@ namespace gamenaperstki
                 }
 
 
-            if (credit > bet & bet > 0 & abc>0)
+            if (credit >= bet & bet > 0 & abc>0)
             {
                 if (win == abc)
                 {
